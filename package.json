@@ -1,0 +1,12 @@
+{
+  "name": "ianstormtaylor-reset",
+  "description": "An opinionated CSS reset for web apps.",
+  "version": "0.2.0",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {
+    "necolas-normalize.css": "git://github.com/npmcomponent/necolas-normalize.css.git"
+  },
+  "license": "MIT"
+}
